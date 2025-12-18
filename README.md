@@ -17,7 +17,7 @@ En Jumping Cat, controlas a un gato valiente que debe sobrevivir a una horda int
 - **UI:** Interfaz pixel art que muestra el puntaje en tiempo real.
 
 ## 📸 Gameplay
-![Jumping Cat Gameplay](https://via.placeholder.com/800x450?text=Sube+aquí+tu+captura+de+pantalla)
+![Jumping Cat Gameplay](https://github.com/andre-espi/Jumping_cat/blob/main/img/img_jumplig_cat.png)
 
 ## 🛠️ Cómo ejecutar el proyecto
 1. Clona este repositorio.
